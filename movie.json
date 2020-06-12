@@ -1,0 +1,8 @@
+movie = `[
+    {"name": "Interstellar",            "Directed by": "Christopher Nolan",     "Release-Date": "October 26, 2014",     "image": "img/interstellar.png",     "Running-Time":"169 min"},
+    {"name": "John Wick",               "Directed by": "Chad Stahelski",        "Release-Date": "September 19, 2014",   "image": "img/johnWick.png",         "Running-Time":"101 min"},
+    {"name": "Logan",                   "Directed by": "James Mangold",         "Release-Date": "February 17, 2017",    "image": "img/logan.png",            "Running-Time":"137 min"},
+    {"name": "Lucy",                    "Directed by": "Luc Besson",            "Release-Date": "August 6, 2014 ",      "image": "img/lucy.png",             "Running-Time":"90 min"},
+    {"name": "Dr.Strange",              "Directed by": "Scott Derrickson",      "Release-Date": "October 13, 2016",     "image": "img/strange.png",          "Running-Time":"115 min"},
+    {"name": "The wolfof wall street",  "Directed by": "Martin Scorsese",       "Release-Date": "December 25, 2013",    "image": "img/wows.png",             "Running-Time":"180 min"}
+]`;
