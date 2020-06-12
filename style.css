@@ -26,7 +26,7 @@ nav{
 #navHome{
 	text-decoration:none;
 	color:white;
-	font-size:2vw;
+	font-size:40px;
 }
 
 /*++++++++++++++++++++++++++++++++++  MAIN CONTENT  ++++++++++++++++++++++++++++++++++*/
@@ -42,9 +42,68 @@ nav{
 	padding-top:30px;
 	padding-bottom:30px;
 	color:white;
-	font-size:2vw;
+	font-size:40px;
 }
 
+#sub-main{
+	width:100%;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content: space-between;
+}
 
+.wrapper{
+	width:45%;
+	display:flex;
+	flex-wrap:wrap;
+	background-color:#181818;
+	color:#CDCDCD;
+	margin:30px;
+}
 
+.image-container{
+	width:30%;
+	height:100%;
+}
 
+.description{
+	width:60%;
+	height:100%;
+	padding-left:20px;
+}
+
+img{
+	width:90%;
+	height:93%;
+	margin:5%;
+}
+
+h3{
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+.img-like{
+	width:50px;
+	height:50px;
+}
+
+#like{
+	display:flex;
+	align-items:baseline;
+	margin-top:8vw;
+	margin-left:22vw;
+	font-size:1vw;
+}
+
+.footer {
+   	left: 0;
+   	bottom: 0;
+   	width: 100%;
+   	height:100px;
+   	background-color: black;
+   	color: white;
+   	text-align: center;
+   	padding-top:50px;
+	font-size:2vw;
+}
