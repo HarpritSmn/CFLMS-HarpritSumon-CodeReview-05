@@ -6,3 +6,4 @@ movie = `[
     {"name": "Dr.Strange",              "Directed by": "Scott Derrickson",      "Release-Date": "October 13, 2016",     "image": "img/strange.png",          "Running-Time":"115 min"},
     {"name": "The wolfof wall street",  "Directed by": "Martin Scorsese",       "Release-Date": "December 25, 2013",    "image": "img/wows.png",             "Running-Time":"180 min"}
 ]`;
+
